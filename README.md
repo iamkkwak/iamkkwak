@@ -19,7 +19,7 @@
 
 🌱 I’m currently learning **ROS, image processing, sensor fusion, socket.io, and so on**.
 
-⚡ Fun fact: To be honest, I'm too lazy to maintain this. lol
+⚡ Fun fact: To be honest, I'm too lazy to maintain this. lol *Just kidding. Never mind.*
 
 📫 How to reach me:
 <div align=center>
