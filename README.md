@@ -2,11 +2,25 @@
 
 <div align=center>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamkkwak&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkkwak&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkwak">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkwak&layout=compact)
+</div>
+<!--
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamkkwak&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkwak)
+-->
 
 <br>
+<br>
+
+🔭 I’m currently working on **SSAFY IoT-specialized project**.
+
+🌱 I’m currently learning **ROS, image processing, sensor fusion, socket.io, and so on**.
+
+⚡ Fun fact: To be honest, I'm too lazy to maintain this. lol
+
+📫 How to reach me:
+<div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eun-jeong.tistory.com)](https://eun-jeong.tistory.com)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eun-jeong)](www.linkedin.com/in/eun-jeong)  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kwakeunjeong2)](https://www.facebook.com/kwakeunjeong2)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamkkwak@gmail.com)](mailto:iamkkwak@gmail.com)
 
