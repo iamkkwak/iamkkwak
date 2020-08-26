@@ -1,4 +1,6 @@
-### EunJeong Kwak
+### Hi, I'm EunJeong Kwak.
+
+<br>
 
 <div align=center>
 
@@ -10,7 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkwak)
 -->
 
-<br>
 <br>
 
 🔭 I’m currently working on **SSAFY IoT-specialized project**.
