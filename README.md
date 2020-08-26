@@ -4,7 +4,7 @@
 
 <div align=center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkkwak&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkwak">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkkwak&theme=buefy&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkwak&theme=buefy">
 
 </div>
 
