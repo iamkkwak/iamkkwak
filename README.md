@@ -17,9 +17,9 @@
 
 <br>
 
-🔭 I’m currently working on **SSAFY IoT-specialized project**.
+🔭 I’m currently working on **SSAFY final project**.
 
-🌱 I’m currently learning **ROS, image processing, sensor fusion, socket.io, and so on**.
+🌱 I’m currently learning **React, Django, MySQL, Docker, Data Science and so on**.
 
 ⚡ Fun fact: I AM A CAFFEINE ADDICT!
 
