@@ -19,7 +19,7 @@
 
 🔭 I’m currently working on **SSAFY final project**.
 
-🌱 I’m currently learning **React, Django, MySQL, Docker, Data Science and so on**.
+🌱 I’m currently learning **Vue.js, Django, MySQL, Docker, Data Analysis and so on**.
 
 ⚡ Fun fact: I AM A CAFFEINE ADDICT!
 
