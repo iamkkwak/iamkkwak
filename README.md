@@ -17,9 +17,9 @@
 
 <br>
 
-🔭 I’m currently working on **SSAFY final project**.
+🔭 I’m currently working on **NHN Rookie 8th Basecamp**.
 
-🌱 I’m currently learning **Vue.js, Django, MySQL, Docker, Data Analysis and so on**.
+🌱 I’m currently learning **HTML/CSS, JavaScript, Vue.js, Spring & SpringBoot and so on**.
 
 ⚡ Fun fact: I AM A CAFFEINE ADDICT!
 
