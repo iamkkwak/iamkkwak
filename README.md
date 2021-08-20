@@ -17,7 +17,7 @@
 
 <br>
 
-🔭 I’m currently working on **NHN Rookie 8th Basecamp**.
+🔭 I’m currently working on **[Dooray!](www.dooray.com)**.
 
 🌱 I’m currently learning **HTML/CSS, JavaScript, Vue.js, Spring & SpringBoot and so on**.
 
