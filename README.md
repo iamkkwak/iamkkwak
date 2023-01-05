@@ -19,8 +19,6 @@
 
 🔭 I’m currently working on **[Dooray!](www.dooray.com)**.
 
-🌱 I’m currently learning **HTML/CSS, JavaScript, Vue.js, Spring & SpringBoot and so on**.
-
 ⚡ Fun fact: I AM A CAFFEINE ADDICT!
 
 📫 How to reach me:
