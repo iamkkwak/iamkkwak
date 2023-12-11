@@ -17,7 +17,7 @@
 
 <br>
 
-🔭 I’m currently working on **[Dooray!](https://www.dooray.com)**.
+🔭 I’m currently working for **[Dooray!](https://www.dooray.com)**.
 
 ⚡ Fun fact: I AM A CAFFEINE ADDICT!
 
